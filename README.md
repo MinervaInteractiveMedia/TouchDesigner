@@ -38,4 +38,4 @@ You can drag and drop them directly into your TouchDesigner network and start ex
 
 1. **Clone or Download** this repository:
    ```bash
-   git clone https://github.com/yourusername/touchdesigner-snippets.git
+   git clone https://github.com/MinervaInteractiveMedia/TouchDesigner.git
